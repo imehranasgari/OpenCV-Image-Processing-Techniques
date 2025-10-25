@@ -112,4 +112,3 @@ This project represents my initial steps into the practical application of compu
 This project is licensed under the Apache 2.0 License – see the `LICENSE` file for details.
 
 -----
-# OpenCV-Image-Processing-Techniques
